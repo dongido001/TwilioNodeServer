@@ -1,4 +1,4 @@
-# Twilio Node.js app for generating access token demo.
+# Node.js app for generating access token demo.
 
 ## How to run
 
