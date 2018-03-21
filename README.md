@@ -6,7 +6,7 @@
 ```
      npm install
 ```
-- Create your configuration file and update .env file with your Twilio: Token
+- Create your configuration file and update .env file with your Twilio Token:
 ```
    cp .env.example .env
 ```
