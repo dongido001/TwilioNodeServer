@@ -1,6 +1,6 @@
 # Twilio Node.js app for generating an access token
-
-## Prequisite
+This will guide you through generating an access token for Twilio using Node.js.
+## Prerequisite
 
 - This project requires that you have Node.js installed on your system. You can install [Node.js](https://nodejs.org/) here if you don't have it installed.
 - You need a Twilio API KEY. Get it [here](https://twilio.com/)
