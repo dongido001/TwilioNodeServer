@@ -7,32 +7,32 @@ This will guide you through generating an access token for Twilio using Node.js.
 
 ## Setup
 
-Clone the repository to your system by running the command:
+- Clone the repository to your system by running the command:
 
 ```sh
 get clone https://github.com/dongido001/TwilioNodeServer.git
 ```
 
-cd into the project folder and install all packages:
+- cd into the project folder and install all packages:
 
 ```sh
   cd TwilioNodeServer && npm install
 ```
 
-Create your configuration file:
+- Create your configuration file:
 
 ```
    cp .env.example .env
 ```
 
-Next, open up `.env` file in your editor and update your Twilio API KEYs.
+- Next, open up `.env` file in your editor and update your Twilio API KEYs.
 
 Run the app
 ```
   npm start
 ```
 
-If everything goes fine, NodeJs server will be running on: `http://localhost:3000/`
+- If everything goes fine, NodeJs server will be running on: `http://localhost:3000/`
 
 ## Use case
 
