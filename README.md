@@ -21,18 +21,19 @@ get clone https://github.com/dongido001/TwilioNodeServer.git
 
 - Create your configuration file:
 
-```
+```sh
    cp .env.example .env
 ```
 
 - Next, open up `.env` file in your editor and update your Twilio API KEYs.
 
 Run the app
-```
-  npm start
+
+```sh
+  node server.js
 ```
 
-- If everything goes fine, NodeJs server will be running on: `http://localhost:3000/`
+- If everything goes fine, Node.js server will be running on: `http://localhost:3000/`
 
 ## Use case
 
