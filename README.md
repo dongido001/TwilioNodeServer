@@ -27,6 +27,12 @@ git clone https://github.com/dongido001/TwilioNodeServer.git
 
 - Next, open up `.env` file in your editor and update your Twilio API KEYs.
 
+```
+TWILIO_ACCOUNT_SID=TWILIO_ACCOUNT_SID  # Your Account SID
+TWILIO_API_KEY=TWILIO_API_KEY # Your API Key SID
+TWILIO_API_SECRET=TWILIO_API_SECRET # Your API Key SECRET
+```
+
 Run the app
 
 ```sh
@@ -35,7 +41,7 @@ Run the app
 
 - If everything goes fine, Node.js server will be running on: `http://localhost:3000/`
 
-## Use case
+## Example use case
 
 To generate an access token, visit http://localhost:3000/token?identity=dongido
 
