@@ -4,10 +4,7 @@
   "description": "Node.js Sever for generating Twilio token",
   "main": "server.js",
   "dependencies": {
-<<<<<<< HEAD
     "axios": "^0.20.0",
-=======
->>>>>>> 0ce9ad39c274342f54f9f14e8917fc7dba9a8b5d
     "dotenv": "^5.0.1",
     "express": "^4.16.3",
     "twilio": "^3.13.1"
