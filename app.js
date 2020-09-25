@@ -34,6 +34,10 @@ app.use(async (req, res, next) => {
     next()
 });
 
+app.get('/', function(request, response) {
+  response.status(200).json({ status: "sucess", body: "App is running"})
+})
+
 /**
  * Generate an Access Token for a chat application user provided via the url
  */

@@ -36,7 +36,7 @@ TWILIO_API_SECRET=TWILIO_API_SECRET # Your API Key SECRET
 Run the app
 
 ```sh
-  node server.js
+  node app.js
 ```
 
 - If everything goes fine, Node.js server will be running on: `http://localhost:3000/`
