@@ -29,7 +29,7 @@ git clone https://github.com/dongido001/TwilioNodeServer.git
 
 ```
 TWILIO_ACCOUNT_SID=TWILIO_ACCOUNT_SID  # Your Account SID
-TWILIO_API_KEY=TWILIO_API_KEY # Your API Key SID
+TWILIO_API_SID=TWILIO_API_SID # Your API Key SID
 TWILIO_API_SECRET=TWILIO_API_SECRET # Your API Key SECRET
 ```
 
