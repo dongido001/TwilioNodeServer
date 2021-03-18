@@ -35,7 +35,7 @@ app.use(async (req, res, next) => {
 });
 
 app.get('/', function(request, response) {
-  response.status(200).json({ status: "sucess", body: "App is running"})
+  response.status(200).json({ status: "success", body: "App is running"})
 })
 
 /**
